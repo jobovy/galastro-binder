@@ -9,6 +9,7 @@ dependencies:
   - scipy
   - matplotlib
   - pyqt
+  - pandas
   - pip
   - conda-forge::astropy>=2
   - conda-forge::galpy
