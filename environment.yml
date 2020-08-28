@@ -12,7 +12,7 @@ dependencies:
   - pandas
   - pip
   - conda-forge::astropy>=2
-  - conda-force::gsl
+  - conda-forge::gsl
   - pip:
     - astroquery
     - git+git://github.com/jobovy/galpy.git#egg=galpy
