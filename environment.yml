@@ -1,4 +1,4 @@
-name: galdyncourse
+name: galaxiesbook
 channels:
   - conda-forge
 dependencies:
