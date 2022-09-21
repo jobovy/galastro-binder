@@ -2,7 +2,7 @@ name: galaxiesbook
 channels:
   - conda-forge
 dependencies:
-  - python=3.8
+  - python=3.10
   - ipython
   - jupyter
   - numpy
@@ -15,4 +15,4 @@ dependencies:
   - conda-forge::specutils
   - pip:
     - astroquery
-    - git+https://github.com/jobovy/galpy.git@f2200a97413874030aad69d209e5de7025d93778
+    - git+https://github.com/jobovy/galpy.git@2d8908b3aedbc3af7e612aa0878663e1b26f100a
