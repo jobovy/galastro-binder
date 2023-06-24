@@ -11,6 +11,7 @@ dependencies:
   - pyqt
   - pandas
   - pip
+  - numexpr
   - conda-forge::astropy>=2
   - conda-forge::specutils
   - pip:
