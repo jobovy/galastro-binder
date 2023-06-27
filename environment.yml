@@ -12,8 +12,9 @@ dependencies:
   - pandas
   - pip
   - numexpr
-  - conda-forge::astropy>=2
+  #- conda-forge::astropy>=2
   - conda-forge::specutils
   - pip:
     - astroquery
+    - git+https://github.com/astropy/astropy.git@b16c7d12ccbc7b2d20364b89fb44285bcbfede54
     - git+https://github.com/jobovy/galpy.git@006d2fee34e5ddef6b42395657540e9b3a1e5dd1
