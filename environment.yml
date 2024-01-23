@@ -17,4 +17,4 @@ dependencies:
   - pip:
     - astroquery
     - git+https://github.com/astropy/astropy.git@b16c7d12ccbc7b2d20364b89fb44285bcbfede54
-    - git+https://github.com/jobovy/galpy.git@v1.9.1
+    - git+https://github.com/jobovy/galpy.git@ffae5a286a5d1268b6c1f9d71d9c55145e022779
