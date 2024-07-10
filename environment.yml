@@ -16,5 +16,5 @@ dependencies:
   - conda-forge::specutils
   - pip:
     - astroquery
-    - matplotlib
+    - matplotlib==3.9.1
     - git+https://github.com/jobovy/galpy.git@5af471eb0b7eee60629a424e01f0e28168d8e770
