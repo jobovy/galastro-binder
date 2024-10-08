@@ -16,4 +16,4 @@ dependencies:
   - conda-forge::specutils
   - pip:
     - astroquery
-    - git+https://github.com/jobovy/galpy.git@5af471eb0b7eee60629a424e01f0e28168d8e770
+    - git+https://github.com/jobovy/galpy.git@8dec1cdf3dcb484af4785b589eacf57bf28d9da8
